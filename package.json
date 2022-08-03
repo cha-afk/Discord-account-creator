@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.23.8",
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "cross-fetch": "^3.1.5",
+    "crypto": "^1.0.1",
+    "discord-webhook-node": "^1.1.8",
+    "node-bash-title": "^0.0.2",
+    "node-fetch": "^3.2.6",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-adblocker": "^2.12.0",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.2",
+    "puppeteer-extra-plugin-stealth": "^2.10.1",
+    "unique-names-generator": "^4.7.1"
+  }
+}
