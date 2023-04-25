@@ -11,7 +11,7 @@
     "prompt-sync": "^4.2.0",
     "puppeteer-extra": "^3.3.0",
     "puppeteer-extra-plugin-adblocker": "^2.12.0",
-    "puppeteer-extra-plugin-recaptcha": "^3.6.2",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
     "puppeteer-extra-plugin-stealth": "^2.10.1",
     "unique-names-generator": "^4.7.1"
   }
